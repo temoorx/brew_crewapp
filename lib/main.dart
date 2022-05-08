@@ -16,6 +16,8 @@ class MyApp extends StatelessWidget {
       ),
       // A widget which will be started on application startup
       home: MyHomePage(title: 'Flutter Demo Home Page'),
+
+      debugShowCheckedModeBanner: false,
     );
   }
 }
