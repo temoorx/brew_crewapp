@@ -14,7 +14,7 @@ class _SignInState extends State<SignIn> {
       body: Container(
           padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 10.0),
           child: RaisedButton(
-            child: Text('Sign in ANon'),
+            child: Text('Sign in Anon'),
             onPressed: () async {},
           )),
     );
